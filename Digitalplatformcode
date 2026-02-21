@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kinkob Kreations | Official Links</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #ffffff;
+    text-align: center;
+    color: #014d4e;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.logo {
+    width: 240px;
+    max-width: 95%;
+    height: auto;
+    margin-bottom: 25px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 10px 0 5px 0;
+    letter-spacing: 1px;
+}
+
+.tagline {
+    color: #c9a227;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 35px;
+    border-bottom: 2px solid #c9a227;
+    display: inline-block;
+    padding-bottom: 6px;
+}
+
+.btn {
+    display: block;
+    text-decoration: none;
+    background: #014d4e; 
+    color: white;
+    padding: 15px;
+    margin: 14px 0;
+    border-radius: 8px;
+    font-weight: 600;
+    border: 2px solid #c9a227;
+    transition: all 0.3s ease;
+}
+
+.btn i {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+/* ICON COLORS */
+
+/* Website */
+.fa-globe {
+    color: #1e88e5;
+}
+
+/* Facebook Official */
+.fa-facebook-f {
+    color: #1877F2;
+}
+
+/* Instagram Official Gradient */
+.fa-instagram {
+    background: linear-gradient(45deg,#f9ce34,#ee2a7b,#6228d7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* LinkedIn Official */
+.fa-linkedin-in {
+    color: #0077B5;
+}
+
+/* Google Rating */
+.fa-star {
+    color: #c9a227;
+}
+
+/* Requirement Icon */
+.fa-file-alt {
+    color: white;   /* Paper white */
+}
+.fa-pencil-alt {
+    color: #ffca28; /* Pencil yellow */
+    margin-left: -8px;
+}
+
+footer {
+    margin-top: 45px;
+    font-size: 11px;
+    color: #777;
+    border-top: 1px solid #c9a227;
+    padding-top: 18px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <img src="https://i.ibb.co/MDLZcbfD/logo.png" 
+         alt="Kinkob Kreations Logo" 
+         class="logo">
+
+    <h1>KINKOB KREATIONS</h1>
+
+    <div class="tagline">
+        Mattresses | Hotel Bed | Bath | Banquet Linens Manufacturer
+    </div>
+
+    <a class="btn" href="https://kinkobmattress.com/" target="_blank">
+        <i class="fas fa-globe"></i> Visit Our Website
+    </a>
+
+    <a class="btn" href="https://www.facebook.com/KinkobKreations" target="_blank">
+        <i class="fab fa-facebook-f"></i> Follow us on Facebook
+    </a>
+
+    <a class="btn" href="https://www.instagram.com/kinkobkreationsofficial/" target="_blank">
+        <i class="fab fa-instagram"></i> Follow us on Instagram
+    </a>
+
+    <a class="btn" href="https://www.linkedin.com/company/knkob-kreations/" target="_blank">
+        <i class="fab fa-linkedin-in"></i> Connect on LinkedIn
+    </a>
+
+    <a class="btn" href="https://kinkobkreations.github.io/kinkob-rating-page/" target="_blank">
+        <i class="fas fa-star"></i> Rate Us on Google
+    </a>
+
+    <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSevpyotaYP_Jz0baxRKcKmEdjf5r-F1P12BIgi1s2fFxGgQMA/viewform?usp=header" target="_blank">
+        <i class="fas fa-file-alt"></i>
+        <i class="fas fa-pencil-alt"></i>
+        Share Your Requirement
+    </a>
+
+    <footer>
+        This page is not affiliated with Google. Your review and requirement submission is optional.
+    </footer>
+
+</div>
+
+</body>
+</html>
